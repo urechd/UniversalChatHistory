@@ -1,0 +1,6 @@
+@UniversalChatHistory.Api_HostAddress = http://localhost:5157
+
+GET {{UniversalChatHistory.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
